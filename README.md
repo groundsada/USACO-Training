@@ -5,13 +5,14 @@ Solutions for the USACO training problems
 ## Description
 
 Solutions to the problems found on the USACO Training Gateway.
+
 The goal is to demonstrate knowledge of algorithms and data structures and ability to solve coding challenges in multiple programming languages.
 
 ## Technologies
 
-Python
-Java (Soon)
-C++ (Soon)
+1. Python
+2. Java (Soon)
+3. C++ (Soon)
 
 
 ## Running
